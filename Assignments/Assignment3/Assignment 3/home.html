@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<header>
+
+    <div class="header-content">
+        <div class="head">
+            <ul>
+                <a href="home.html">
+                    <li class="Add"><b>Add Employee</b> </li>
+                </a>
+<a> | </a>
+                <a href="list.html">
+                    <li class="List"><b>Employee list</b></li>
+                </a>
+
+            </ul>
+        </div>
+
+        <div class=".back">
+
+            <div class="adding">
+
+                <h3>Add Employee</h3>
+
+                <form class="form" id="form" action="#">
+                    <label for="fname">First Name </label><br>
+                    <input name="id" id="id" hidden="true" type="text" value="" hidden="true"></input>
+                    <input type="text" id="fname" name="fname" required><br>
+
+                    <label for="lname">Last Name </label><br>
+                    <input type="text" id="lname" name="lname" required><br>
+
+                    <label for="email">Email </label><br>
+                    <input type="email" id="email" name="email" required><br>
+
+                    <div class="buttons">
+                        <input  class="button" type="submit" value="submit" id="add-btn">
+                    </div>
+                </form>
+
+
+
+            </div>
+
+            <table class="countries" id="countries">
+                <h3>Employee list</h3>
+                <!--inject the table data here-->
+            </table>
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+</header>
+
+
+<!--<table class="countries" id="countries">
+    <h3>Employee list</h3>
+    &lt;!&ndash;inject the table data here&ndash;&gt;
+</table>-->
+
+<script type="module" src="js/index.js"></script>
+<script src="https://unpkg.com/localbase/dist/localbase.dev.js"></script>
+
+</body>
+</html>

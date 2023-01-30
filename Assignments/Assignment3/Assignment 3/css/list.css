@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Add{
+
+    color: silver;
+
+}
+
+
+.List{
+    color: white;
+}
+
+* a,h1,p,h2,h3,.form,.button {
+    font-family: "Montserrat";
+}
+html {
+    height: 100%;
+}
+h3{
+    padding: .5rem;
+    margin: .5rem;
+    color: #212121;
+}
+
+
+body {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+
+}
+
+
+
+
+
+.head a,li{
+
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 5px;
+
+}
+
+
+
+.head{
+    background-color: gold;
+    width: 100%;
+    transform: translateX(-5%);
+
+
+
+}
+
+
+
+.adding h3{
+    transform: translate(35px,75px);
+
+
+}
+
+
+
+.adding{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 900px;
+    height: 450px;
+    color: white;
+    border:silver solid 3px;
+    transform: translateX(-5%);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+
+}
+
+.form{
+    width: 100%;
+
+
+}
+
+
+
+
+
+.countries {
+    border-collapse: collapse;
+    margin: 10px 0;
+    background: white;
+    font-size: 0.9em;
+    font-family: Montserrat;
+    min-width: 400px;
+    transform: translate(10% ,40%);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    color: black;
+}
+
+.countries thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.countries th,
+.countries td {
+    padding: 12px 15px;
+}
+
+.countries tbody tr {
+    border-bottom: 1px solid gold;
+}
+
+.countries tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.countries tbody tr:last-of-type {
+    border-bottom: 2px solid gold;
+}
+
+.fa-fa-edit{
+    cursor: pointer;
+    background-color: gold;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.fa-trash{
+
+    cursor: pointer;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+

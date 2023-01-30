@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a908108-beca-4e30-b2b0-20075d561c03" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25cGDsHgH6ThnqG1yCoDoSFHKxF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/scratches/Assignments/Assignment2/BookDonation" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saood\AppData\Roaming\JetBrains\WebStorm2021.3\scratches\Assignments\Assignment2\BookDonation" />
+      <recent name="C:\Users\saood\AppData\Roaming\JetBrains\WebStorm2021.3\scratches\Assignments\Assignment2" />
+      <recent name="C:\Users\saood\AppData\Roaming\JetBrains\WebStorm2021.3\scratches\Assignments" />
+      <recent name="C:\Users\saood\Desktop\Web development\b02-Saeid-sh1807500\Lab 6-JavaScript OOP" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saood\AppData\Roaming\JetBrains\WebStorm2021.3\scratches\Assignments\Assignment2\BookDonation" />
+      <recent name="C:\Users\saood\AppData\Roaming\JetBrains\WebStorm2021.3\scratches\Assignments\Assignment2\Book Donation App " />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.book-catalog.spec.js">
+    <configuration name="BookCatalog.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/Assignments/Assignment2/BookDonation/BookCatalog.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/Assignments/Assignment2/BookDonation/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Tutorial/BankingApp/app.js" working-dir="$PROJECT_DIR$/Tutorial/BankingApp">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/Assignments/Assignment2/BookDonation/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="book-catalog.spec.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/Assignments/Assignment2/BookDonation/book-catalog.spec.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.book-catalog.spec.js" />
+        <item itemvalue="Node.js.BookCatalog.js" />
+        <item itemvalue="Node.js.app.js (2)" />
+        <item itemvalue="Node.js.app.js (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a908108-beca-4e30-b2b0-20075d561c03" name="Changes" comment="" />
+      <created>1645818844613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645818844613</updated>
+      <workItem from="1645818845752" duration="19392000" />
+      <workItem from="1645883477650" duration="3917000" />
+      <workItem from="1645889311803" duration="1868000" />
+      <workItem from="1645891207338" duration="19000" />
+      <workItem from="1645891250894" duration="12541000" />
+      <workItem from="1645908627749" duration="163000" />
+      <workItem from="1646047541648" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

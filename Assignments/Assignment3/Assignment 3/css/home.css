@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Add{
+
+    color: white;
+
+}
+
+
+.List{
+    color: silver;
+}
+
+* a,h1,p,h2,h3,.form,.button {
+    font-family: "Montserrat";
+}
+html {
+    height: 100%;
+}
+h3{
+    padding: .5rem;
+    margin: .5rem;
+    color: #212121;
+}
+
+
+body {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+
+}
+
+
+
+
+
+.head a,li{
+
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 5px;
+
+}
+
+
+
+.head{
+    background-color: gold;
+    width: 90%;
+
+
+}
+
+
+
+.adding h3{
+    transform: translate(35px,75px);
+
+
+}
+
+
+
+.adding{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 90%;
+    height: 100%;
+    color: white;
+    border:silver solid 3px;
+    padding-bottom: 3rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+
+}
+
+
+.form {
+    width: 60%;
+    gap: 5px;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    margin: 1rem     2rem ;
+    padding:3rem 1rem;
+    border: silver solid 2px;
+    color: #212121;
+
+}
+input[type=text], input[type=email]  {
+    padding: .2rem;
+    margin: .2rem;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 2px;
+
+}
+
+.button{
+    border: none;
+    padding: .3rem;
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 10px;
+    outline: none;
+    color:black;
+    font-size: 15px;
+    background-color:gold;
+    border: 0;
+    cursor: pointer;
+}
+
+
+
+
+
+.countries {
+    border-collapse: collapse;
+    margin: 10px 0;
+    background: white;
+    font-size: 0.9em;
+    font-family: Montserrat;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    color: black;
+    width: 90%;
+}
+
+.countries thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.countries th,
+.countries td {
+    padding: 12px 15px;
+}
+
+.countries tbody tr {
+    border-bottom: 1px solid gold;
+}
+
+.countries tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.countries tbody tr:last-of-type {
+    border-bottom: 2px solid gold;
+}
+
+.fa-fa-edit{
+    cursor: pointer;
+    background-color: gold;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.fa-trash{
+
+    cursor: pointer;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+@media screen and (max-width:60rem){
+
+
+
+}
+
+
+
+
